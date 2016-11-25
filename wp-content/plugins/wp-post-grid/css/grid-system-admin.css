@@ -1,0 +1,82 @@
+label.label-grid-type{
+	display: inline-block;
+	margin-bottom: 20px;
+    margin-right: 40px;
+}
+label.label-grid-type input[type="radio"]{
+	display:inline-block;
+	float: left;
+	margin-top: 15px;
+}
+.clear{
+	clear:both;
+	height:0px;
+	overflow:hidden;
+}
+.div-grid-content{
+	margin: 20px 0px;
+}
+.div-grid-preview{
+	float: left;
+	width:50%;
+}
+.div-grid-posts{
+	float: left;
+	width:50%;
+}
+.grid-post-select{
+	margin-top: 10px;
+	display:	block;
+	width:80%;
+}
+.grid-post-select .selectivity-single-select-input{
+	padding: 0px;
+}
+.grid-post-select .selectivity-single-select{
+	background:#FFF;
+	display:block;
+	border:1px solid #ddd;
+	padding-bottom: 0;
+    padding-top: 0;
+}
+.grid-post-select .selectivity-single-result-container{
+	top:4px;
+}
+.grid-post-select .selectivity-caret{
+	top: -2px;
+}
+.grid-label-3-select span{
+	 float: left;
+    line-height: 28px;
+    margin-top: 10px;
+	display:inline-block;
+}
+.grid-label-3-select input{
+	width:64%;
+	margin-top:10px;
+	margin-left:10px;
+	float:right;
+	margin-right:20%;
+}
+.hide{
+	display:none;
+}
+.grid-post{
+	display:none;
+}
+.preview-img{
+	margin-right:20px;
+}
+.preview-img img{
+	width:100%;
+	height:auto;
+}
+.div-grid-posts #publishing-action{
+	float:left;
+	margin-top:20px;
+	display:none;
+}
+.div-grid-posts #publishing-action .spinner{
+	float:right;
+}
+
